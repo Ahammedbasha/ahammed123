@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am pavan kalyan brother of megastar
+=======
+i am megastar
+>>>>>>> development
